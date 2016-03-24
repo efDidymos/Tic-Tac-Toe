@@ -1,5 +1,4 @@
 #include <iostream>
-#include <list>
 #include "m/Model.h"
 #include "v/View.h"
 

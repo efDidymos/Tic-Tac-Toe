@@ -5,8 +5,6 @@
 #ifndef DP_MVC_LEPSI_MODEL_H
 #define DP_MVC_LEPSI_MODEL_H
 
-#include <list>
-#include <string>
 #include <set>
 #include <iostream>
 #include "../Observer.hpp"
